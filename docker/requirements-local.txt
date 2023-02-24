@@ -1,0 +1,4 @@
+wheel
+cx_Oracle
+clickhouse-connect
+pymssql
